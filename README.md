@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amit Jirobe</h1>
-<h3 align="center">MERN Stack Developer | Exploring Agentic AI, Cloud & Automation</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;MERN+Stack+Developer;Building+Agentic+AI+%2B+RAG+Systems;Automating+Workflows+with+n8n;Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://amitjirobe.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -88,6 +91,16 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amit2227-github/amit2227-github/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+> ⚙️ This animates automatically once you add the GitHub Action below (one-time setup, ~2 min) — see **Setup Instructions** at the bottom.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -99,8 +112,62 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit2227-github&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit2227-github&theme=react-dark&hide_border=true" alt="activity graph" width="100%" />
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amit2227-github&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
+</p>
+
 ---
 
 <p align="center">
   <i>🚀 Building at the intersection of full-stack development and AI-powered automation.</i>
 </p>
+
+---
+
+### ⚙️ Setup Instructions (one-time, ~2 min) — to activate the snake animation
+
+1. In your `amit2227-github` repo, create a new file: `.github/workflows/snake.yml`
+2. Paste this in:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: amit2227-github
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Commit it. Go to the **Actions** tab of your repo → run the workflow manually once (`workflow_dispatch`) → it'll create an `output` branch with the animated SVG.
+4. The snake image link in this README already points to that branch, so it'll start animating automatically after step 3.
+5. After that, it auto-refreshes daily based on your real contribution graph — no further maintenance needed.
