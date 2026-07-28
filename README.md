@@ -2,26 +2,12 @@
 
 <img src="./boot-sequence.svg" alt="boot sequence" width="100%"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=700&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+amit_jirobe+%E2%80%94+full-stack+%2B+agentic+ai;%24+./connect.sh+--all" alt="Typing SVG" />
 
 <a href="https://amitjirobe.onrender.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logoColor=00FF41&labelColor=000000" /></a>
 <a href="https://www.linkedin.com/in/amit-jirobe-a48484295/"><img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" /></a>
 <a href="mailto:amitjirobe07@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" /></a>
 
-</div>
-
-<br>
-
-## Skill Graph
-
-A live-feeling map of how everything connects — full-stack fundamentals feeding into what I'm building toward: agentic AI systems and automation.
-
-<div align="center">
-  <img src="./skill-graph.svg" alt="animated skill constellation" width="100%"/>
 </div>
 
 <br>
@@ -42,7 +28,32 @@ status:      [ONLINE]
 
 <br>
 
-## Runtime Log
+```bash
+┌──(amit㉿github)-[~]
+└─$ ./skill_graph.sh --render --live
+```
+
+<div align="center">
+  <img src="./skill-graph.svg" alt="animated skill constellation" width="100%"/>
+</div>
+
+<br>
+
+```bash
+┌──(amit㉿github)-[~]
+└─$ ls -la ./tech-stack/
+```
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,py,html,css,react,nodejs,express,mongodb,mysql,tailwind,docker,git,aws,oracle&perline=9&theme=dark" />
+</p>
+
+<br>
+
+```bash
+┌──(amit㉿github)-[~]
+└─$ ./run_projects.sh --list
+```
 
 | `PROCESS` | `DESCRIPTION` | `STACK` |
 |---|---|---|
@@ -73,7 +84,30 @@ status:      [ONLINE]
 </div>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit2227-github&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amit2227-github&theme=matrix&no-frame=true&row=2&column=3&margin-w=6&margin-h=6" height="150"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit2227-github&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
+<br>
+
+```bash
+┌──(amit㉿github)-[~]
+└─$ echo $CONNECT
+```
+
+<div align="center">
+<a href="https://amitjirobe.onrender.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logoColor=00FF41&labelColor=000000" /></a>
+<a href="https://www.linkedin.com/in/amit-jirobe-a48484295/"><img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" /></a>
+<a href="mailto:amitjirobe07@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" /></a>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=100&section=footer" width="100%"/>
+</div>
+
 ---
+
