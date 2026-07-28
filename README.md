@@ -1,108 +1,123 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=Amit+Jirobe;Full-Stack+(MERN)+Developer;Building+with+AI+%2B+Automation" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=180&section=header&text=amit2227%40github:~%24&fontColor=00FF41&fontSize=38&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20MERN%20%7C%20Agentic%20AI&descAlignY=58&descSize=16&descColor=00FF41" width="100%"/>
 
-<p>
-<a href="https://amitjirobe.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/amit-jirobe-a48484295/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:amitjirobe07@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+amit_jirobe+%E2%80%94+full-stack+%2B+AI+systems;%24+cat+status.txt;%3E+building+%7C+learning+%7C+shipping;%24+./connect.sh" alt="Typing SVG" />
 
 </div>
 
-&nbsp;
+<br>
 
-## About
+```bash
+┌──(amit㉿github)-[~]
+└─$ cat about.md
+```
 
-B.Tech Computer Science student (PCCOE, Pune — expected 2027) building full-stack web applications on the MERN stack. Currently extending into AI systems — Retrieval-Augmented Generation, agentic workflows, and automation with n8n — alongside cloud fundamentals on OCI and AWS.
+```yaml
+role:        Software Engineering Student — B.Tech CSE, PCCOE (2027)
+stack:       MERN — React / Node.js / Express / MongoDB
+focus:       Agentic AI · RAG Pipelines · Cloud (OCI/AWS) · n8n Automation
+cert:        OCI 2025 Generative AI Professional
+location:    Pune, India
+links:       portfolio.sh · linkedin.sh · mail.sh
+status:      [ONLINE] currently building
+```
 
-OCI Generative AI Professional certified &nbsp;·&nbsp; 70+ problems solved on LeetCode
+<br>
 
-&nbsp;
+```bash
+┌──(amit㉿github)-[~]
+└─$ ./skills.sh --animate
+```
 
-## Stack
+<div align="center">
+  <img src="./skills-animated.svg" alt="animated skill bars" width="100%"/>
+</div>
+
+<sub>⚠ This is a custom animated SVG — upload <code>skills-animated.svg</code> to the root of your <code>amit2227-github</code> repo for it to render (file provided alongside this README).</sub>
+
+<br>
+
+```bash
+┌──(amit㉿github)-[~]
+└─$ ls -la ./tech-stack/
+```
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,py,html,css,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,docker,git,github,postman,aws,oracle&perline=10" />
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,py,html,css,react,nodejs,express,mongodb,mysql,tailwind,docker,git,aws,oracle&perline=9&theme=dark" />
 </p>
 
-**Currently exploring:** LangChain · RAG pipelines · n8n · Agentic AI patterns
+<br>
 
-&nbsp;
+```bash
+┌──(amit㉿github)-[~]
+└─$ ./run_projects.sh --list
+```
 
-## Experience
+| `PROCESS` | `DESCRIPTION` | `STACK` |
+|---|---|---|
+| `[MJGPT]` → running | AI chat app · OpenAI API · JWT auth · Stripe subscriptions | MERN, OpenAI, Stripe |
+| `[Wanderlust]` → running | Full-stack property listing platform · Passport.js auth | Node, Express, MongoDB, EJS |
 
-**Software Development Intern (Freelance)** — Dhritsthal &nbsp;`Mar 2026 – Apr 2026`
-Configured SMTP/email systems, implemented form validation, improved SEO and site reliability, integrated analytics.
+<br>
 
-**Software Development Intern** — Robota Solution &nbsp;`Jun 2023 – Jul 2023`
-Built Arduino-based embedded systems in C/C++; hands-on PCB design and hardware integration.
-
-&nbsp;
-
-## Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[MJGPT — AI Chat Application](https://github.com/amit2227-github)**
-
-Full-stack ChatGPT-style app with OpenAI API integration, JWT/bcrypt authentication, and Stripe subscriptions.
-
-`MongoDB` `Express` `React` `Node.js` `OpenAI API` `Stripe`
-
-</td>
-<td width="50%" valign="top">
-
-**[Wanderlust — Property Listing Platform](https://github.com/amit2227-github)**
-
-MVC web app with full CRUD for listings and reviews, Passport.js auth with ownership-based access control, Joi validation.
-
-`Node.js` `Express` `MongoDB` `EJS` `Bootstrap`
-
-</td>
-</tr>
-</table>
-
-&nbsp;
-
-## GitHub Activity
+```bash
+┌──(amit㉿github)-[~]
+└─$ ./contribution_snake.sh
+```
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amit2227-github&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amit2227-github&hide_border=true&theme=tokyonight" height="165"/>
+  <img src="https://raw.githubusercontent.com/amit2227-github/amit2227-github/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+</div>
+
+<br>
+
+```bash
+┌──(amit㉿github)-[~]
+└─$ ./stats --verbose
+```
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amit2227-github&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit2227-github&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=FFFFFF&sideLabels=00FF41&sideNums=FFFFFF&dates=00FF41" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit2227-github&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=amit2227-github&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit2227-github&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amit2227-github&theme=matrix&no-frame=true&row=2&column=3&margin-w=6&margin-h=6" height="150"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit2227-github&theme=tokyo-night&hide_border=true&hide_title=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit2227-github&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
+
+<br>
+
+```bash
+┌──(amit㉿github)-[~]
+└─$ echo $CONNECT
+```
+
+<p align="center">
+  <a href="https://amitjirobe.onrender.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logoColor=00FF41&labelColor=000000" /></a>
+  <a href="https://www.linkedin.com/in/amit-jirobe-a48484295/"><img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" /></a>
+  <a href="mailto:amitjirobe07@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" /></a>
+</p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/amit2227-github/amit2227-github/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=100&section=footer" width="100%"/>
 </div>
-
-<sub>Snake animation needs a one-time GitHub Action — see setup below.</sub>
-
-&nbsp;
-
-## Contact
-
-Email: amitjirobe07@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amit-jirobe-a48484295/) &nbsp;·&nbsp; [Portfolio](https://amitjirobe.onrender.com/)
 
 ---
 
-<details>
-<summary><b>⚙ Setup: activate the snake animation (one-time, ~2 min)</b></summary>
-<br>
+### ⚙️ SETUP.md
 
-1. In your `amit2227-github` repo, create `.github/workflows/snake.yml`
-2. Paste:
+**1. Animated skill bars**
+Upload `skills-animated.svg` (provided) to the root of your `amit2227-github` repo. The image tag above already points to it via a relative path.
+
+**2. Contribution snake** (one-time, ~2 min)
+
+Create `.github/workflows/snake.yml` in the same repo:
 
 ```yaml
 name: Generate Snake Animation
@@ -135,8 +150,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. Commit → go to the **Actions** tab → run the workflow manually once.
-4. It creates an `output` branch with the animated SVG, which the image above already points to.
-5. Refreshes daily on its own after that.
-
-</details>
+Commit → go to **Actions** tab → run the workflow manually once. It creates an `output` branch with the animated SVG that the snake image above already points to. Refreshes daily on its own after that.
