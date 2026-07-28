@@ -1,141 +1,128 @@
-<h1 align="center">Hi 👋, I'm Amit Jirobe</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;MERN+Stack+Developer;Building+Agentic+AI+%2B+RAG+Systems;Automating+Workflows+with+n8n;Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=200&section=header&text=amit2227%40github:~%24&fontColor=00FF41&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20|%20Full-Stack%20|%20Agentic%20AI&descAlignY=58&descSize=18&descColor=00FF41" width="100%"/>
 
-<p align="center">
-  <a href="https://amitjirobe.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/amit-jirobe-a48484295/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:amitjirobe07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+amit_jirobe+%E2%80%94+software+engineering+student;%24+cat+skills.txt;%3E+MERN+%7C+Agentic+AI+%7C+RAG+%7C+n8n+%7C+Cloud;%24+./deploy.sh+--env%3Dproduction;%3E+shipping..." alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amit2227-github&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/amit2227-github?label=Follow&style=social" />
-</p>
+</div>
 
----
+<br>
 
-### 🚀 About Me
+```bash
+┌──(amit㉿github)-[~]
+└─$ cat about.md
+```
 
-- 🎓 B.Tech CSE @ PCCOE, Pune (Expected 2027)
-- 💻 Full-stack **MERN** developer — React, Node.js, Express, MongoDB
-- 🤖 Diving into **Agentic AI**, **RAG (Retrieval-Augmented Generation)**, and workflow automation with **n8n**
-- ☁️ Exploring **Cloud** platforms — Oracle Cloud Infrastructure (OCI Generative AI Certified), AWS (learning)
-- 🌐 Portfolio: [amitjirobe.onrender.com](https://amitjirobe.onrender.com/)
-- 📫 Reach me: **amitjirobe07@gmail.com**
-- ⚡ Fun fact: 70+ problems solved on LeetCode
+```yaml
+name:         Amit Jirobe
+role:         Software Engineering Student (B.Tech CSE, PCCOE)
+grad_year:    2027
+stack:        MERN — React / Node.js / Express / MongoDB
+focus:        Agentic AI · RAG Pipelines · Cloud (OCI/AWS) · n8n Automation
+location:     Pune, India
+portfolio:    https://amitjirobe.onrender.com/
+linkedin:     https://www.linkedin.com/in/amit-jirobe-a48484295/
+contact:      amitjirobe07@gmail.com
+status:       [ONLINE] currently building + learning
+```
 
----
+<br>
 
-### 🧠 Currently Exploring
+```bash
+┌──(amit㉿github)-[~]
+└─$ ls -la ./tech-stack/
+```
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/n8n%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCI%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=mysql&logoColor=00FF41" />
+  <br>
+  <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=00FF41" />
+  <br>
+  <img src="https://img.shields.io/badge/-n8n-000000?style=flat-square&logo=n8n&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-OCI_Cloud-000000?style=flat-square&logo=oracle&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=amazonaws&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=00FF41" />
 </p>
 
----
+<br>
 
-### 🛠️ Tech Stack
+```bash
+┌──(amit㉿github)-[~]
+└─$ ./run_projects.sh --list
+```
 
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**Frontend**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-**Backend & Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
+| `PROCESS`  | `DESCRIPTION` | `STACK` |
 |---|---|---|
-| **[MJGPT – AI Chat App](https://github.com/amit2227-github)** | Full-stack ChatGPT-inspired app with OpenAI API, JWT auth & Stripe subscriptions | MERN, OpenAI API, Stripe, JWT |
-| **[Wanderlust](https://github.com/amit2227-github)** | Full-stack property listing platform with Passport.js auth & CRUD | Node.js, Express, MongoDB, EJS, Bootstrap |
+| `[MJGPT]` &nbsp;&nbsp;→ running | AI chat app · OpenAI API · JWT auth · Stripe subscriptions | MERN, OpenAI, Stripe |
+| `[Wanderlust]` → running | Full-stack property listing platform · Passport.js auth | Node, Express, MongoDB, EJS |
+
+<br>
+
+```bash
+┌──(amit㉿github)-[~]
+└─$ ./contribution_snake.sh
+```
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amit2227-github/amit2227-github/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+</div>
+
+> setup required once — see `SETUP.md` section at the bottom.
+
+<br>
+
+```bash
+┌──(amit㉿github)-[~]
+└─$ ./stats --verbose
+```
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amit2227-github&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit2227-github&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=FFFFFF&sideLabels=00FF41&sideNums=FFFFFF&dates=00FF41" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit2227-github&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit2227-github&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
+
+<br>
+
+```bash
+┌──(amit㉿github)-[~]
+└─$ echo $CONNECT
+```
+
+<p align="center">
+  <a href="https://amitjirobe.onrender.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logoColor=00FF41&labelColor=000000" /></a>
+  <a href="https://www.linkedin.com/in/amit-jirobe-a48484295/"><img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" /></a>
+  <a href="mailto:amitjirobe07@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" /></a>
+</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=100&section=footer" width="100%"/>
+</div>
 
 ---
 
-### 🐍 Contribution Snake
+### ⚙️ SETUP.md — activate the snake animation (one-time, ~2 min)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amit2227-github/amit2227-github/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-> ⚙️ This animates automatically once you add the GitHub Action below (one-time setup, ~2 min) — see **Setup Instructions** at the bottom.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit2227-github&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit2227-github&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit2227-github&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit2227-github&theme=react-dark&hide_border=true" alt="activity graph" width="100%" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amit2227-github&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
----
-
-<p align="center">
-  <i>🚀 Building at the intersection of full-stack development and AI-powered automation.</i>
-</p>
-
----
-
-### ⚙️ Setup Instructions (one-time, ~2 min) — to activate the snake animation
-
-1. In your `amit2227-github` repo, create a new file: `.github/workflows/snake.yml`
-2. Paste this in:
+1. In your `amit2227-github` repo, create `.github/workflows/snake.yml`
+2. Paste this:
 
 ```yaml
 name: Generate Snake Animation
@@ -168,6 +155,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. Commit it. Go to the **Actions** tab of your repo → run the workflow manually once (`workflow_dispatch`) → it'll create an `output` branch with the animated SVG.
-4. The snake image link in this README already points to that branch, so it'll start animating automatically after step 3.
-5. After that, it auto-refreshes daily based on your real contribution graph — no further maintenance needed.
+3. Commit it → go to the **Actions** tab → run the workflow manually once.
+4. It creates an `output` branch with the animated SVG — the snake image above already points there, so it lights up automatically.
+5. After that it refreshes daily on its own from your real contribution graph.
